@@ -24,7 +24,7 @@ The Power BI file demonstrates a visualization dashboard created using the clean
 Below is a preview of the Power BI dashboard:
 
 ![Dashboard Preview](https://github.com/JuanCYoung/AdventureWorks-Data-Warehouse-2019-Dashboard/blob/main/Page1.jpg)
-![Dashboard Preview](https://github.com/JuanCYoung/AdventureWorks-Data-Warehouse-2019-Dashboard/blob/main/Page2.jpg)
+![Dashboard Preview](https://github.com/JuanCYoung/AdventureWorks-Data-Warehouse-2019-Dashboard/blob/main/Page2jpg.jpg)
 ---
 
 ## Acknowledgments
